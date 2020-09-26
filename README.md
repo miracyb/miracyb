@@ -1,5 +1,6 @@
 <h2 align="center">✨</h1>
-<h2 align="center">Hello! I'm Mirac!</h2>
+<h2 align="center">Hello! I'm Miraç!</h2>
+<h2 align="center">I'm a software developer and hobbyist reverse engineer.</h2>
 <!--
 **miracyb/miracyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
