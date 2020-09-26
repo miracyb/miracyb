@@ -1,5 +1,4 @@
-### ✨ Hello! I'm Miraç! ✨
-
+<h1 align="center">### ✨ Hello! I'm Mirac! ✨</h1>
 
 <!--
 **miracyb/miracyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
