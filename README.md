@@ -1,6 +1,7 @@
 <h2 align="center">✨</h1>
-<h2 align="center">Hello!</h2>
-<h2 align="center">I'm a software developer and hobbyist reverse engineer at PLEROMA GROUP</h2>
+<h3 align="center">Hello!</h2>
+<h4 align="center">I'm a software developer and hobbyist reverse engineer at Pleroma Group</h2>
+
 <!--
 **miracyb/miracyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
