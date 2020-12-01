@@ -4,5 +4,3 @@
 
 - 🌱 I’m currently learning: C++, Rust and Node.js
 - 📫 How to reach me: Check out [my Carrd](https://mirac.carrd.co)!
-- 😄 Pronouns: He/him/his
-- ⚡ Quote: “Know thy self, know thy enemy. A thousand battles, a thousand victories.” — Sun Tzu
